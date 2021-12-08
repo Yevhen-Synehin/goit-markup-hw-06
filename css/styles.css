@@ -628,10 +628,6 @@ color: var(--light-color);
   color: var(--chapter-color);
   margin-bottom: 12px;
 }
-.modal-form{
-  /* display: flex;
-  flex-direction: column; */
-}
 .modal-label{
   display: block;
   font-weight: 500;
@@ -739,3 +735,4 @@ border: none;
 }
 .modal-btn:hover {
   background-color: var(--btn-order-hov-color);
+}
